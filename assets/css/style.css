@@ -1,0 +1,19 @@
+body{
+    background-color: yellow;
+}
+.container{
+    width: 50vh;
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    flex-direction: row;
+    margin-left: 40%;
+    margin-top: 20%;
+
+}
+h1{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
